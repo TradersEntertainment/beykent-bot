@@ -1,2 +1,2 @@
-# beykent-bot
-beykent duyurular lisans üstü takip telegram botu
+# Beykent Üniversitesi Duyuru Botu
+Telegram bot that monitors: https://lisansustu.beykent.edu.tr/duyurular
